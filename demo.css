@@ -1,0 +1,26 @@
+.porta{
+display: flex;
+background-color: rgb(254,254,254);
+justify-content: space-between;
+flex-wrap: wrap;
+/* align-items: baseline; */
+align-content: space-between;
+width: 100%;
+}
+#img{
+    width: 70%;
+} 
+.pa{
+    width: 70%;
+}
+.port1{
+width: 50%;
+height: 50%;
+background-color: azure;
+margin-top: 10px;
+justify-items: center;
+}
+#img2{
+    height: 30%;
+    width: 40%;
+}
