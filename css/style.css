@@ -487,3 +487,12 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+
+    @media (max-width: 767px) {
+        body {
+            overflow-x: hidden;
+        }
+    }
+
+
